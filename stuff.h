@@ -9,6 +9,6 @@ void lowerCase();
 void checkinput();
 extern bool continue_;
 
-
+// a
 
 #endif // STUFF_H_INCLUDED
