@@ -1,12 +1,12 @@
 #ifndef STUFF_H_INCLUDED
 #define STUFF_H_INCLUDED
 
-int square();
-int doubled();
-int half();
-int sixnine();
+int power();
+int times();
+int divide();
 int program();
 void lowerCase();
+void checkinput();
 extern bool continue_;
 
 
